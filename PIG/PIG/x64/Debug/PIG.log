@@ -1,0 +1,3 @@
+﻿  PIG.cpp
+c:\workspace\pig\pig\pig\pig.cpp(117): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  PIG.vcxproj -> C:\workspace\PIG\PIG\x64\Debug\PIG.exe
